@@ -8,4 +8,7 @@
 
 [企业分布](https://ikin7.github.io/Enterprise.html)
 ## 作业2
+### 简单图标记录某一周我的睡眠和步数
+
+[身体情况](https://ikin7.github.io/health.html)
 ## 作业3
