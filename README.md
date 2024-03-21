@@ -6,6 +6,6 @@
 [奥运会](https://ikin7.github.io/Olympics.html)
 ### 中国地图，部分省市的中国前五百强企业数量
 
-[企业分布](
+[企业分布](https://ikin7.github.io/Enterprise.html)
 ## 作业2
 ## 作业3
