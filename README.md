@@ -14,4 +14,4 @@
 ## 作业3
 ### 2021年数院思政实践报告名词统计词云
 
-[报告名词词云](https://ikin7.github.io/2021ideology and politics.html)
+[报告名词词云](https://ikin7.github.io/2021ideologyandpolitics.html)
