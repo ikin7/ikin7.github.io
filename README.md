@@ -1,4 +1,4 @@
-# 我的作业
+# 第一次作业
 ## 2000010635
 ## 作业1 
 ### 世界地图，各个国家奥运会举办次数（未成功举办的也计入）
@@ -15,3 +15,12 @@
 ### 2021年数院思政实践报告名词统计词云
 
 [报告名词词云](https://ikin7.github.io/2021ideologyandpolitics.html)
+# 第二次作业
+## 作业一
+### 必应搜索引擎改名
+
+[猪八戒搜索](https://ikin7.github.io/ZhuBaJie.html)
+## 作业二
+### 人物共现分析网页设计
+
+[水浒传人物关系表](https://ikin7.github.io/ShuiHuZhuan.html)
