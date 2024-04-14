@@ -23,4 +23,4 @@
 ## 作业二
 ### 人物共现分析网页设计
 
-[水浒传人物关系表](https://ikin7.github.io/ShuiHuZhuan.html)
+[水浒传人物关系表](https://ikin7.github.io/ShuiHu.html)
